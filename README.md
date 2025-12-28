@@ -1,5 +1,15 @@
-# 💫 About Me:
-Building backend and AI-powered systems using Python, FastAPI, Flask, REST APIs, and LLM-based architectures RAG & AI Agents.<br>Open-source projects related to backend development, DevOps, AI agents, LLM applications, and cloud-native systems.<br>Scaling backend systems, advanced Kubernetes networking, production-grade DevOps practices, and AI system design.<br> DevOps, Docker & Kubernetes networking, LLMs, RAG pipelines, AI Agents, system design, and backend performance optimization.<br>Python, FastAPI, Flask, REST APIs, SQL, Git/GitHub, DevOps basics, Selenium automation, LLMs, RAG, AI Agents, networking fundamentals.<br>I prefer learning by building real-world projects rather than just reading documentation.<br>
+## 👋 About Me
+
+Backend-focused developer with a strong interest in AI-powered systems and cloud-native architectures.  
+I enjoy building scalable APIs, automation tools, and intelligent applications using modern technologies.
+
+🔭 Currently working on backend and AI systems using **Python, FastAPI, Flask, REST APIs, LLMs (RAG & AI Agents)**
+🌱 Learning **advanced DevOps, Kubernetes networking, system design, and production-ready AI architectures**
+👯 Looking to collaborate on **backend, DevOps, and AI/LLM-based open-source projects**
+🤝 Exploring best practices in **scalability, performance optimization, and cloud-native development**
+💬 Ask me about **Python, APIs, DevOps basics, Selenium, LLMs, RAG, AI Agents, and networking fundamentals**
+⚡ Fun fact: I prefer learning by building real-world projects over only reading documentation
+
 
 
 ## 🌐 Socials:
