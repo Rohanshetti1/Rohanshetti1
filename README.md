@@ -3,12 +3,13 @@
 Backend-focused developer with a strong interest in AI-powered systems and cloud-native architectures.  
 I enjoy building scalable APIs, automation tools, and intelligent applications using modern technologies.
 
-🔭 Currently working on backend and AI systems using **Python, FastAPI, Flask, REST APIs, LLMs (RAG & AI Agents)**
-🌱 Learning **advanced DevOps, Kubernetes networking, system design, and production-ready AI architectures**
-👯 Looking to collaborate on **backend, DevOps, and AI/LLM-based open-source projects**
-🤝 Exploring best practices in **scalability, performance optimization, and cloud-native development**
-💬 Ask me about **Python, APIs, DevOps basics, Selenium, LLMs, RAG, AI Agents, and networking fundamentals**
-⚡ Fun fact: I prefer learning by building real-world projects over only reading documentation
+- 🔭 Currently working on backend and AI systems using **Python, FastAPI, Flask, REST APIs, LLMs (RAG & AI Agents)**
+- 🌱 Learning **advanced DevOps, Kubernetes networking, system design, and production-ready AI architectures**
+- 👯 Looking to collaborate on **backend, DevOps, and AI/LLM-based open-source projects**
+- 🤝 Exploring best practices in **scalability, performance optimization, and cloud-native development**
+- 💬 Ask me about **Python, APIs, DevOps basics, Selenium, LLMs, RAG, AI Agents, and networking fundamentals**
+- ⚡ Fun fact: I prefer learning by building real-world projects over only reading documentation
+
 
 
 
