@@ -1,4 +1,4 @@
-## 👋 About Me
+## 👋 Hey There,
 
 Backend-focused developer with a strong interest in AI-powered systems and cloud-native architectures.  
 I enjoy building scalable APIs, automation tools, and intelligent applications using modern technologies.
